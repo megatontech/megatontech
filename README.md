@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+```javascript
 Here are some bad ideas to get me started:
 
 - 🔭 I’m currently working on nothing...
