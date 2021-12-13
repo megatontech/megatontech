@@ -1,16 +1,13 @@
 
-<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/00.webp' width='410px'>
-{% macro repo(name, hint) -%}
-    - [{{hint}}](https://github.com/megatontech/{{name}})
-    <a href='https://github.com/megatontech/{{name}}'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/{{name}}'></img></a>
-    [![]()]()
-{%- endmacro %}
+<img align='right' src='https://s3.bmp.ovh/imgs/2021/12/6b6236406ebd157d.jpg' width='410px'>
+大家好，我是BOG，欢迎来到握手会。因为左边的那个人去摔跤了，所以我来介绍一下这里都有什么。
 
-<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/00.webp' width='410px'>
-
-大家好，我是狗B酱，欢迎来到我的个人握手会。因为左边的那个人去种地了，所以我来介绍一下这里都有什么。
-
++ 算法repo:
 + 工程repo:
+
+    - [【avbook】avbook](https://github.com/megatontech/avbook)
+    <a href='https://github.com/megatontech/avbook'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/Librian'></img></a>
+    [![]()]()
     {{repo('avbook', '【avbook】无需介绍!')}}
     
     {{repo('dongbei', '【dongbei】瞅瞅，这都啥玩意儿！')}}
