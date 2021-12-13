@@ -6,8 +6,7 @@
 + 工程repo:
 
     - [【avbook】avbook](https://github.com/megatontech/avbook)
-    <a href='https://github.com/megatontech/avbook'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/Librian'></img></a>
-    [![]()]()
+  
     {{repo('avbook', '【avbook】无需介绍!')}}
     
     {{repo('dongbei', '【dongbei】瞅瞅，这都啥玩意儿！')}}
