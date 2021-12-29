@@ -18,32 +18,28 @@
     - [【moha】赛事快报：16进8！](https://github.com/megatontech/moha)
     - [【ReactionImageTagger】简易图片内容识别](https://github.com/megatontech/ReactionImageTagger)
     - [【AcHelper】给老A站写的浏览器插件](https://github.com/megatontech/AcHelper)
+    - [【xxqg】自动学习工具](https://github.com/megatontech/Fuck-XueXiQiangGuo)
+    - [【nows】画饼充饥](https://github.com/megatontech/nows)
+    - [【vscode-rainbow-fart】对自己好一点](https://github.com/megatontech/vscode-rainbow-fart)
     - [【】]()
-    - [【】]()
-    - [【】]()
-    - [【】]()
-    - []()
 + 正经repo:
     - [【LGBTQIA-in-China】乖乖站好](https://github.com/megatontech/LGBTQIA-in-China)
     - [【Dress】女装编程从入门到精通](https://github.com/megatontech/Dress)
     - [【】]()
-    - [【】]()
-    - [【】]()
-
 +学习积累:
-    - [【】](https://github.com/megatontech/AlgorithmImplentionInCSharp)
-    - [【】](https://github.com/megatontech/go-admin)
-    - [【】](https://github.com/megatontech/megahelper)
-    - [【】](https://github.com/megatontech/SmartStoreNET)
-    - [【】](https://github.com/megatontech/eShopOnContainers)
-    - [【】](https://github.com/megatontech/BlogEngine.NET)
-    - [【】](https://github.com/megatontech/Orchard2)
-    - [【】](https://github.com/megatontech/architect-awesome)
-
+    - [【AlgorithmImplentionInCSharp】](https://github.com/megatontech/AlgorithmImplentionInCSharp)
+    - [【go-admin】](https://github.com/megatontech/go-admin)
+    - [【megahelper】](https://github.com/megatontech/megahelper)
+    - [【SmartStoreNET】](https://github.com/megatontech/SmartStoreNET)
+    - [【eShopOnContainers】](https://github.com/megatontech/eShopOnContainers)
+    - [【BlogEngine.NET】](https://github.com/megatontech/BlogEngine.NET)
+    - [【Orchard2】](https://github.com/megatontech/Orchard2)
+    - [【architect-awesome】](https://github.com/megatontech/architect-awesome)
+    - [【】]()
 +Gayhub便签:
     - [【+1】点击使用宋体](https://gist.github.com/megatontech/2569d73e20b4fa6b5aea3e22c9ed0238)
     - [【Windows only】Four words for u](https://gist.github.com/megatontech/e5dfd4dd64022a82b50315f340c21bcd)
-
+    - [【】]()
 +Gayhub当笔记:
     - [【GoogleCloudPlatformEssay】](https://github.com/megatontech/GoogleCloudPlatformEssay)
     - [【MyNoteForGO】](https://github.com/megatontech/MyNoteForGO)
@@ -51,19 +47,18 @@
     - [【AzureEssay】](https://github.com/megatontech/AzureEssay)
     - [【DockerEssay】]([](https://github.com/megatontech/DockerEssay))
     - [【TECH-DOC-CH】](https://github.com/megatontech/TECH-DOC-CH)
+    - [【】]()
 +Gayhub当服务器
-
+    - [【】]()
 +Gayhub当矿机
-
+    - [【】]()
 +Gayhub当博客
-
+    - [【resume】](https://github.com/megatontech/resume.github.com)
+    - [【megatontech】](https://github.com/megatontech/megatontech.github.io)
+    - [【】]()
 +Gayhub当网盘(原教旨Github厨退散):
-        - [【ThankYouSenpai】](https://github.com/megatontech/ThankYouSenpai)
-        - [【resume】](https://github.com/megatontech/resume.github.com)
-        - [【megatontech】](https://github.com/megatontech/megatontech.github.io)
-        - [【】]()
-
-
+    - [【ThankYouSenpai】](https://github.com/megatontech/ThankYouSenpai)
+    - [【】]()
 ### Hi there 👋
 ```javascript
 Here are some bad ideas to get me started:
