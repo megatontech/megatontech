@@ -1,5 +1,5 @@
 
-<img align='right' src='https://s3.bmp.ovh/imgs/2021/12/6b6236406ebd157d.jpg' width='410px'>
+<img align='right' src='https://s3.bmp.ovh/imgs/2021/12/6b6236406ebd157d.jpg' width='213px'>
 大家好，我是BOG，欢迎来到付费520握手会。因为左边的那个人去卖化肥了，所以我来介绍一下这里都有什么特色:不流失,不蒸发,零浪费!
 
 + 算法repo:
