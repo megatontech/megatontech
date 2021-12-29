@@ -51,6 +51,11 @@
     - [【AzureEssay】](https://github.com/megatontech/AzureEssay)
     - [【DockerEssay】]([](https://github.com/megatontech/DockerEssay))
     - [【TECH-DOC-CH】](https://github.com/megatontech/TECH-DOC-CH)
++Gayhub当服务器
+
++Gayhub当矿机
+
++Gayhub当博客
 
 +Gayhub当网盘(原教旨Github厨退散):
         - [【ThankYouSenpai】](https://github.com/megatontech/ThankYouSenpai)
