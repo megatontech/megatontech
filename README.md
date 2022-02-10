@@ -63,6 +63,8 @@
     - [【megatontech】](https://github.com/megatontech/megatontech.github.io)
 + Gayhub当网盘(原教旨Github厨退散):
     - [【ThankYouSenpai】](https://github.com/megatontech/ThankYouSenpai)
+    - [【PicGo】](https://github.com/megatontech/PicGo)
+    - [【pic-stash】](https://github.com/megatontech/pic-stash)
 ### Hi there 👋
 ```javascript
 Here are some bad ideas to get me started:
